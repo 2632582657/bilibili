@@ -1,0 +1,14 @@
+<view class="my_title">
+  <navigator class='logo'>
+    <image class='logo_image' style='width:140rpx;height:60rpx;' src='../../icon/bilibili.png'></image>
+  </navigator>
+  <view class='search_icon'>
+    <image src='../../icon/sousuo.png' style='width:60rpx;height:44rpx;'></image>
+  </view>
+  <view class='user_icon'>
+    <image src='../../icon/user.png' style='width:54rpx;height:60rpx;'></image>
+  </view>
+  <view class='down'>
+    下载App
+  </view>
+</view>
